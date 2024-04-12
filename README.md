@@ -1,2 +1,1 @@
-# product-star-java
-Git Examples
+Консольно приложение
